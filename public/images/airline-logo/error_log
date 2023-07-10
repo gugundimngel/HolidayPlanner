@@ -1,0 +1,109 @@
+[28-Feb-2022 06:24:47 America/Chicago] PHP Warning:  Use of undefined constant zipname - assumed 'zipname' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 217
+[28-Feb-2022 06:24:47 America/Chicago] PHP Warning:  Use of undefined constant zipname - assumed 'zipname' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 218
+[28-Feb-2022 06:24:47 America/Chicago] PHP Warning:  Use of undefined constant zipname - assumed 'zipname' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 221
+[28-Feb-2022 06:24:47 America/Chicago] PHP Warning:  Use of undefined constant todir - assumed 'todir' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 223
+[28-Feb-2022 06:24:47 America/Chicago] PHP Warning:  Use of undefined constant todir - assumed 'todir' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 223
+[28-Feb-2022 06:24:47 America/Chicago] PHP Warning:  Use of undefined constant todir - assumed 'todir' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 224
+[28-Feb-2022 06:24:47 America/Chicago] PHP Warning:  Use of undefined constant todir - assumed 'todir' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 225
+[28-Feb-2022 06:24:47 America/Chicago] PHP Warning:  Use of undefined constant todir - assumed 'todir' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 226
+[28-Feb-2022 06:24:47 America/Chicago] PHP Warning:  Use of undefined constant todir - assumed 'todir' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 227
+[28-Feb-2022 06:24:47 America/Chicago] PHP Warning:  Use of undefined constant dfile - assumed 'dfile' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 276
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  Use of undefined constant zipname - assumed 'zipname' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 217
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  Use of undefined constant zipname - assumed 'zipname' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 220
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  Use of undefined constant zipname - assumed 'zipname' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 220
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  Use of undefined constant zipname - assumed 'zipname' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 221
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  Use of undefined constant todir - assumed 'todir' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 223
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  Use of undefined constant todir - assumed 'todir' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 223
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  Use of undefined constant todir - assumed 'todir' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 224
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  Use of undefined constant todir - assumed 'todir' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 225
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  Use of undefined constant todir - assumed 'todir' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 226
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  Use of undefined constant todir - assumed 'todir' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 227
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  Use of undefined constant dfile - assumed 'dfile' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 276
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  Use of undefined constant dfile - assumed 'dfile' (this will throw an Error in a future version of PHP) in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 285
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(tests): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(.env): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(routes): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(test.php): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(phpunit.xml): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(vendor): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(phpinfo.php): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(storage_filename.pdf): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(bootstrap): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(.well-known): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(composer.lock): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(app): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(storage): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(server.php): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(email-template): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(html): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(resources): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(php.ini): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(artisan): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(public): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(cgi-bin): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(composer.json): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(package.json): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(webpack.mix.js): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(yarn.lock): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(.htaccess): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(config): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(.user.ini): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  opendir(database): failed to open dir: No such file or directory in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 241
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  readdir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 242
+[28-Feb-2022 06:25:12 America/Chicago] PHP Warning:  closedir() expects parameter 1 to be resource, bool given in /home1/zapbolib/public_html/public/images/airline-logo/zip.php on line 259

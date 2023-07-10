@@ -1,0 +1,74 @@
+@extends('layouts.admin')
+@section('title', 'User Type')
+
+@section('content')
+
+<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+	<div class="content-header">
+		<div class="container-fluid">
+			<div class="row mb-2">
+				<div class="col-sm-6">
+					<h1 class="m-0 text-dark">User Type</h1>
+				</div><!-- /.col -->
+				<div class="col-sm-6">
+					<ol class="breadcrumb float-sm-right">
+						<li class="breadcrumb-item"><a href="#">Home</a></li>
+						<li class="breadcrumb-item active">User Type</li>
+					</ol>
+				</div><!-- /.col -->
+			</div><!-- /.row -->
+		</div><!-- /.container-fluid -->
+	</div>
+	<!-- /.content-header -->	
+	<!-- Breadcrumb start-->
+	<!--<ol class="breadcrumb">
+		<li class="breadcrumb-item active">
+			Home / <b>Dashboard</b>
+		</li>
+		@include('../Elements/Admin/breadcrumb')
+	</ol>-->
+	<!-- Breadcrumb end-->
+	
+	<!-- Main content --> 
+	<section class="content">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-12">
+					<!-- Flash Message Start -->
+					<div class="server-error">
+						@include('../Elements/flash-message')
+					</div>
+					<!-- Flash Message End -->
+				</div>
+				<div class="col-md-6">
+					<div class="card card-primary">
+					  <div class="card-header">
+						<h3 class="card-title">Edit User Type</h3>
+					  </div>
+					  <!-- /.card-header -->
+					  <!-- form start -->
+					  {{ Form::open(array('url' => 'admin/usertype/edit', 'name'=>"edit-usertype", 'autocomplete'=>'off', "enctype"=>"multipart/form-data")) }}
+					  {{ Form::hidden('id', @$fetchedData->id) }}
+						<div class="card-body">	
+						  <div class="form-group">
+							<label for="name">User Type Name</label>
+							{{ Form::text('name', @$fetchedData->name, array('class' => 'form-control', 'data-valid'=>'required', 'autocomplete'=>'off','placeholder'=>'Enter User Type' )) }}
+							@if ($errors->has('name'))
+								<span class="custom-error" role="alert">
+									<strong>{{ @$errors->first('name') }}</strong>
+								</span> 
+							@endif
+						  </div>
+						  <div class="form-group">
+							{{ Form::submit('Update', ['class'=>'btn btn-primary' ]) }}
+						  </div>
+						</div>
+					  {{ Form::close() }}
+					</div>	
+				</div>	
+			</div>
+		</div>
+	</section>
+</div>
+@endsection

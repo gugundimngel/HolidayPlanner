@@ -1,0 +1,252 @@
+[11-Jun-2021 06:34:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Agent.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Agent.php on line 8
+[11-Jun-2021 07:38:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Coupon.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Coupon.php on line 8
+[11-Jun-2021 13:21:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Test.php on line 8
+[11-Jun-2021 13:21:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Test.php on line 8
+[12-Jun-2021 16:56:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Wallet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Wallet.php on line 8
+[13-Jun-2021 09:55:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Course.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Course.php on line 8
+[13-Jun-2021 10:05:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/City.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/City.php on line 8
+[13-Jun-2021 16:05:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Addon.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Addon.php on line 8
+[13-Jun-2021 19:33:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/State.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/State.php on line 7
+[13-Jun-2021 22:05:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Coupon.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Coupon.php on line 8
+[13-Jun-2021 23:38:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Agent.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Agent.php on line 8
+[14-Jun-2021 01:57:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Admin.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Admin.php on line 8
+[14-Jun-2021 05:36:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Hotel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Hotel.php on line 8
+[14-Jun-2021 11:37:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Lead.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Lead.php on line 8
+[14-Jun-2021 23:22:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/User.php on line 10
+[15-Jun-2021 12:00:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Item.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Item.php on line 8
+[16-Jun-2021 07:34:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Course.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Course.php on line 8
+[16-Jun-2021 09:03:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/City.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/City.php on line 8
+[16-Jun-2021 16:19:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Wallet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Wallet.php on line 8
+[16-Jun-2021 17:51:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/State.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/State.php on line 7
+[16-Jun-2021 20:39:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Item.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Item.php on line 8
+[16-Jun-2021 22:12:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Test.php on line 8
+[17-Jun-2021 00:37:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Agent.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Agent.php on line 8
+[17-Jun-2021 03:01:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Addon.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Addon.php on line 8
+[17-Jun-2021 03:02:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Admin.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Admin.php on line 8
+[17-Jun-2021 08:50:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Coupon.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Coupon.php on line 8
+[17-Jun-2021 10:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Coupon.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Coupon.php on line 8
+[17-Jun-2021 13:07:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Lead.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Lead.php on line 8
+[17-Jun-2021 15:09:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Hotel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Hotel.php on line 8
+[18-Jun-2021 17:09:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Item.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Item.php on line 8
+[18-Jun-2021 19:58:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Item.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Item.php on line 8
+[19-Jun-2021 11:09:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/City.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/City.php on line 8
+[19-Jun-2021 13:44:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/City.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/City.php on line 8
+[19-Jun-2021 21:43:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Wallet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Wallet.php on line 8
+[19-Jun-2021 22:35:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Test.php on line 8
+[19-Jun-2021 23:00:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/State.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/State.php on line 7
+[20-Jun-2021 00:19:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Agent.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Agent.php on line 8
+[20-Jun-2021 02:07:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Addon.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Addon.php on line 8
+[20-Jun-2021 02:24:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Agent.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Agent.php on line 8
+[20-Jun-2021 02:39:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Admin.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Admin.php on line 8
+[20-Jun-2021 04:25:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Addon.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Addon.php on line 8
+[20-Jun-2021 05:16:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Admin.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Admin.php on line 8
+[20-Jun-2021 12:38:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Lead.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Lead.php on line 8
+[20-Jun-2021 14:48:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Hotel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Hotel.php on line 8
+[20-Jun-2021 15:07:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Lead.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Lead.php on line 8
+[20-Jun-2021 16:48:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Hotel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Hotel.php on line 8
+[20-Jun-2021 19:34:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Item.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Item.php on line 8
+[20-Jun-2021 20:11:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Lead.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Lead.php on line 8
+[20-Jun-2021 20:13:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Invoice.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Invoice.php on line 8
+[20-Jun-2021 23:49:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Followup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Followup.php on line 8
+[21-Jun-2021 03:13:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/CmsPage.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/CmsPage.php on line 8
+[22-Jun-2021 19:41:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Followup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Followup.php on line 8
+[22-Jun-2021 21:31:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/State.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/State.php on line 7
+[22-Jun-2021 21:40:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Wallet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Wallet.php on line 8
+[22-Jun-2021 22:19:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Invoice.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Invoice.php on line 8
+[22-Jun-2021 22:26:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Test.php on line 8
+[22-Jun-2021 22:36:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Holidaytype.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Holidaytype.php on line 8
+[23-Jun-2021 00:04:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/State.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/State.php on line 7
+[23-Jun-2021 00:21:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Wallet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Wallet.php on line 8
+[23-Jun-2021 00:46:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Item.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Item.php on line 8
+[23-Jun-2021 01:15:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Test.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Test.php on line 8
+[01-Aug-2021 16:17:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Item.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Item.php on line 8
+[11-Oct-2021 03:54:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home2/zapbooking/public_html/app/Addon.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/app/Addon.php on line 8

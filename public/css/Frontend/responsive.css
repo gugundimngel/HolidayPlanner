@@ -1,0 +1,3448 @@
+@media (max-width: 1200px) {
+    .sidebar {
+        margin-top: 0px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .custom_reservation_tab form.form-banner-reservation .cus_loc_field {
+        width: 29%;
+    }
+    .custom_reservation_tab .mtlc form.form-banner-reservation .cus_loc_field {
+        width: 36%;
+    }
+    .custom_reservation_tab form.form-banner-reservation .cus_calendar_field,
+    .custom_reservation_tab form.form-banner-reservation .cus_passenger_field {
+        width: 14%;
+    }
+    /* .custom_reservation_tab form.form-banner-reservation .cus_searchbtn_field{width:16%;} */
+    .subscribe-text h2 {
+        font-size: 36px;
+    }
+    .booking_sidebar .inner_sidebar ul li {
+        font-size: 13px;
+        line-height: 24px;
+        padding: 0px 15px;
+    }
+    .booking_sidebar .inner_sidebar ul li.total_value {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .booking_sidebar .inner_sidebar ul li.you_pay {
+        font-size: 18px;
+        line-height: 22px;
+        padding: 10px 30px;
+    }
+    .custom_box_result ul.booking_list li.flight_time {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .custom_box_result ul.booking_list li.flight_time strong {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .custom_box_result ul.booking_list li.flight_time .airport {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .custom_box_result ul.booking_list li.flight_time .date {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .custom_box_result ul.booking_list li.flight_amenties span {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .custom_box_result ul.booking_list li.flight_amenties span.grey_rtbrder {
+        margin: 0px 6px;
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .promo_code .inner_promo {
+        padding: 10px 20px;
+    }
+    form .custom_block_content .form_field {
+        width: 25%;
+    }
+    form .custom_block_content .form_field.country_field {
+        width: 35%;
+    }
+    .booking_btn .pay_btn {
+        font-size: 15px;
+        line-height: 21px;
+        padding: 8px 15px;
+    }
+    .count_search {
+        width: 65%;
+    }
+    .inner_common_tabs ul.custom_tabs li a {
+        padding: 10px 50px;
+    }
+    .profile_info .profile_name h4 {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .roundtrip_header ul li:first-child {
+        width: 38%;
+    }
+    .roundtrip_header ul li:nth-child(2) {
+        width: 26%;
+    }
+    .roundtrip_header ul li:last-child {
+        width: 34%;
+    }
+    .roundtrip_search .flight_info ul li {
+        padding: 10px 4px 5px;
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result.result_list li span.date {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li.price {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li span.duration>span:before {
+        width: 75px;
+    }
+    .sticky_bottom ul li.flight_duration .cus_time {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .sticky_bottom ul li.flight_duration .arrow {
+        margin: 0px 20px;
+    }
+    .sticky_bottom ul li.flight_duration .arrow i {
+        font-size: 21px;
+    }
+    .sticky_bottom ul li.flight_price {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .sticky_bottom .stk_grand_total li.grandtotal_txt {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .sticky_bottom .stk_grand_total li.grandtotal_btn button {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 10px 15px;
+    }
+    .seat_list .table_data {
+        max-width: 390px;
+        padding: 10px 6px;
+    }
+    .seat_list table tr td {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 10px 5px;
+    }
+    .seat_list table tr td span.ytfi-seat {
+        font-size: 12px;
+        width: 48px;
+    }
+    .seat_list table tr td span.ytfi-seat:before {
+        font-size: 48px;
+    }
+    .seat_list .cus_wings {
+        width: 150px;
+        height: 40px;
+    }
+    .seat_list .cus_wings.wings_top {
+        left: -44px;
+    }
+    .seat_list .cus_wings.wings_bottom {
+        right: -44px;
+    }
+    .seat_list .cus_wings span {
+        font-size: 18px;
+        top: 10px;
+    }
+    .search_field .cus_loc_field {
+        width: 32%;
+    }
+    .search_field .cus_calendar_field {
+        width: 16.35%;
+    }
+    .hotel_search .search_field .cus_loc_field {
+        width: calc(53% - 115px);
+    }
+    .search_field .cus_checkinout_field {
+        width: 28%;
+    }
+    .search_field .cus_passenger_field {
+        width: 25%;
+    }
+    .hotel_search .search_field .cus_passenger_field {
+        width: 28%;
+    }
+}
+
+@media (max-width: 1199px) {
+    .custom_reservation_tab form.form-banner-reservation .cus_loc_field,
+    .custom_reservation_tab form.form-banner-reservation .cus_calendar_field,
+    .custom_reservation_tab form.form-banner-reservation .cus_passenger_field {
+        padding: 0 5px 10px 5px !important;
+    }
+
+    
+    .custom_reservation_tab form.form-banner-reservation .cus_loc_field {
+        padding: 0 5px 10px 5px !important;
+    }
+
+
+    .slide-content .custom_reservation_tab .br-tabs-content button.roundformsearch,
+    .slide-content .custom_reservation_tab .br-tabs-content button.multiroundformsearch {
+        width: 100%;
+    }
+    .swipe {
+        right: -13px;
+    }
+    .custom_reservation_tab form.form-banner-reservation {
+        margin: 0px !important;
+    }
+
+    
+    .promo_code .inner_promo {
+        padding: 10px;
+    }
+    .booking_btn .pay_btn {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 8px 10px;
+    }
+    .booking_sidebar .inner_sidebar ul li {
+        font-size: 12px;
+        line-height: 21px;
+        padding: 0px 10px;
+    }
+    .booking_sidebar .inner_sidebar ul li.total_value {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .booking_sidebar .inner_sidebar ul li.you_pay {
+        font-size: 16px;
+        line-height: 21px;
+        padding: 10px 20px;
+    }
+    .side-panel-menu .mobile-side-panel-menu #menu-mobile li a {
+        color: #000;
+    }
+    .side-panel-menu .mobile-side-panel-menu #menu-mobile li {
+        border-color: rgba(0, 0, 0, 0.15);
+    }
+    .side-panel-menu {
+        background: #fff;
+    }
+    .side-panel-menu .side-panel-close {
+        background-color: #5091fa;
+        color: #fff;
+    }
+    .side-panel-menu .side-panel-close .hamburger {
+        opacity: 1;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .custom_reservation_tab form.form-banner-reservation .cus_loc_field,
+    .custom_reservation_tab form.form-banner-reservation .cus_calendar_field,
+    .custom_reservation_tab form.form-banner-reservation .cus_passenger_field {
+        width: 25%;
+    }
+    
+    /* .custom_reservation_tab form.form-banner-reservation .cus_searchbtn_field{width:25%;padding: 0px 0px 10px !important;}  */
+    .custom_reservation_tab .multiwaytrip form.form-banner-reservation .ismultipleway .form-group {
+        width: 20%;
+        padding: 0px !important;
+    }
+    .custom_reservation_tab form.form-banner-reservation .cus_searchbtn_field {
+        width: 100% !important;
+    }
+    .custom_box_result ul.booking_list li.flight_time {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .custom_box_result ul.booking_list li.flight_time strong {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .custom_box_result ul.booking_list li.flight_time .airport {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .custom_box_result ul.booking_list li.flight_time .date {
+        font-size: 13px;
+        line-height: 21px;
+    }
+    .custom_box_result ul.booking_list li.flight_amenties span {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .custom_box_result ul.booking_list li.flight_amenties span.grey_rtbrder {
+        margin: 0px 4px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .count_search {
+        width: 75%;
+    }
+    .inner_common_tabs ul.custom_tabs li a {
+        padding: 10px 40px;
+    }
+    .profile_info .profile_name h4 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .roundtrip_search .flight_info ul li {
+        padding: 10px 5px 5px;
+    }
+    .sticky_bottom ul li.flight_duration .cus_time {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .sticky_bottom ul li.flight_duration .arrow {
+        margin: 0px 10px;
+    }
+    .sticky_bottom ul li.flight_duration .arrow i {
+        font-size: 18px;
+    }
+    .sticky_bottom ul li.flight_price {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .sticky_bottom .stk_grand_total li.grandtotal_txt {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .sticky_bottom .stk_grand_total li.grandtotal_btn button {
+        font-size: 12px;
+        line-height: 16px;
+        padding: 7px 10px;
+    }
+    .seat_list .table_data {
+        max-width: 350px;
+        padding: 10px 4px;
+    }
+    .seat_list table tr td {
+        font-size: 12px;
+        line-height: 16px;
+        padding: 10px 4px;
+    }
+    .seat_list table tr td span.ytfi-seat {
+        font-size: 10px;
+        width: 40px;
+        padding-left: 10px;
+    }
+    .seat_list table tr td span.ytfi-seat:before {
+        font-size: 42px;
+    }
+    .seat_list .cus_wings {
+        width: 140px;
+        height: 28px;
+    }
+    .seat_list .cus_wings.wings_top {
+        left: -55px;
+    }
+    .seat_list .cus_wings.wings_bottom {
+        right: -55px;
+    }
+    .seat_list .cus_wings span {
+        font-size: 16px;
+        top: 5px;
+    }
+    .search_field .cus_loc_field {
+        width: calc(30% - 2px);
+    }
+    .hotel_search .search_field .cus_loc_field {
+        width: calc(53% - 115px);
+    }
+    .search_field .cus_calendar_field {
+        width: 16.35%;
+    }
+    .hotel_search .search_field .cus_checkinout_field {
+        width: 30%;
+    }
+    .search_field .cus_passenger_field {
+        width: 25%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1199px) {
+    .tb_idea .nav-tabs,
+    .ftab .nav-tabs {
+        display: flex;
+        white-space: nowrap;
+        overflow: scroll;
+    }
+    .ideaall_tb>a {
+        width: 48%;
+    }
+    .ideaimg {
+        width: 150px;
+    }
+    .subscribe-text h2 {
+        font-size: 33px;
+    }
+    form .custom_block_content .form_field {
+        width: 30%;
+    }
+    form .custom_block_content.signin_content .form_field {
+        width: 26%;
+    }
+    form .custom_block_content .form_field.country_field {
+        width: 40%;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result.result_list li span.date {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li.price {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .roundtrip_header ul li:first-child {
+        width: 32%;
+    }
+    .roundtrip_header ul li:nth-child(2) {
+        width: 28%;
+    }
+    .roundtrip_header ul li:last-child {
+        width: 38%;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 1199px) {
+    .roundtrip_search .custom_box_result ul.list-search-result li span.duration>span:before {
+        width: 55px;
+    }
+}
+
+@media (min-width: 992px) {
+  
+    .subscribe2-wrapper .subscribe-form input {
+        width: calc(60% - 20px);
+    }
+    .travel_col {
+        padding: 0px 45px 45px;
+    }
+    .travel_col .travel_icon img {
+        width: 150px;
+    }
+    .travel_col .travel_info h4 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .travel_col .travel_info p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .oneway_search .flight_info ul li,
+    .internationtrip_search .flight_info ul li {
+        padding: 10px 30px;
+    }
+    .booking_email_send {
+        width: 70%;
+    }
+    .booking_confirm .booking_info .person_details h4 {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .booking_confirm .booking_info .person_details p {
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .booking_thanks p {
+        font-size: 13px;
+        line-height: 21px;
+    }
+    .custom_page_search .filter_btn_style,
+    .filter_close,
+    .mob_sticky_menu,
+    .applyfilter_btn {
+        display: none;
+    }
+    .custom_sidebar.sidebar.style-1 {
+        padding: 20px 15px;
+    }
+    .profile_image {
+        width: 160px;
+        height: 160px;
+    }
+    .sidebar_menu {
+        padding: 30px 20px;
+    }
+    .bookflight_info ul li {
+        margin-right: 10px;
+    }
+    .bookflight_info ul li a {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 5px 15px;
+    }
+    .hide_desktop {
+        display: none;
+    }
+    .swipe.single_swipe {
+        top: 8px;
+    }
+    .custom_box_result ul.list-search-result li.pad_left10 {
+        padding-left: 10px;
+    }
+    .custom_box_result ul.list-search-result li.pad_left30 {
+        padding-left: 30px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li {
+        padding: 0px 7px;
+    }
+    .sticky_bottom ul li.flight_txt .flight_name {
+        font-size: 12px;
+        line-height: 16px;
+        width: calc(100px - 30px);
+    }
+    .sticky_bottom ul li.flight_txt img {
+        width: 30px;
+    }
+    .hide_desk_searh {
+        display: none !important;
+    }
+    .custom_reservation_tab .multiwaytrip .form-banner-reservation .ismultipleway a.closem {
+        padding: 8px 15px 8px;
+        margin-top: 25px;
+        margin-left: 15px;
+    }
+    .page-search .custom_reservation_tab .multiwaytrip .form-banner-reservation .ismultipleway a.closem {
+        padding: 10px 15px 9px;
+    }
+    .plane_seat_sec .seat_list {
+        border-left: 2px solid #dadada;
+    }
+    .popular_hotel_list {
+        display: flex;
+    }
+    .popular_hotel_list .popular_item {
+        width: 18%;
+        margin-right: 13px;
+    }
+    .hotel_filter_btn {
+        display: none;
+    }
+}
+
+@media (max-width: 991px) {
+    .multiwaytrip .list-dropdown-passengers {
+        right: 0;
+    }
+
+    
+    .loc_search_field .location_search, .loc_search_field_to .location_search_to, .loc_search_field .hotel-location_search {
+        padding: 0;
+        border: 0;
+    }
+    
+    .daterangepicker {
+        height: 100%;
+        width: 102%;
+        position: fixed;
+        left: -4px !important;
+        top: -9px !important;
+        background: #FAFAFA;
+    }
+    
+    .daterangepicker .drp-calendar {
+        max-width: 100%;
+        width: 100%;
+    }
+    
+    .daterangepicker .calendar-table {
+        background: transparent;
+        border: 0;
+    }
+    
+    .daterangepicker .calendar-table th, .daterangepicker .calendar-table td {
+        padding: 12px;
+    }
+    
+    .daterangepicker .calendar-table table {border-collapse: separate;border-spacing: 4px;border: 0;}
+    
+    .daterangepicker .calendar-table thead tr {
+        background: #efefef;
+    }
+    
+    
+    .loc_search_field .location_search:before, .loc_search_field_to .location_search_to:before, .loc_search_field .hotel-location_search:before {
+        top: 10px;
+    }
+    
+    .ui-widget.ui-widget-content {
+        width: 92% !important;
+        left: 4% !important;
+    }
+    
+    .loc_search_field .location_search .inner_loc_search, .loc_search_field_to .location_search_to .inner_loc_search, .loc_search_field .hotel-location_search .inner_loc_search {
+        height: 300px;
+        overflow-y: scroll;
+        position: fixed;
+        width: 93%;
+        background: #fff;
+        left: 3%;
+        margin-top: 20px;
+        padding: 10px;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+        border-radius: 10px;
+    }
+    
+    
+    .loc_search_field .location_search, .loc_search_field_to .location_search_to, .loc_search_field_one .one_location_search_from, .loc_search_field_one_to .one_location_search_to {
+        width: 280px;
+        padding: 0;
+        border: 0;
+    }
+    
+    .ui-datepicker td span, .ui-datepicker td a {
+        padding: 14px !important;
+    }
+    
+    .ui-datepicker .ui-datepicker-header {
+        margin: 0;
+        border: 0;
+        padding: 14px;
+    }
+    
+    .ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next {
+        top: 22%;
+    }
+    
+    .ui-datepicker td span, .ui-datepicker td a, .ui-datepicker td {
+        border-radius: 6px !important;
+        background: #fff;
+    }
+    
+    table tbody tr {
+        background-color: transparent;
+    }   
+    
+    
+     .custom_reservation_tab input {
+        border-radius: 6px !important;
+    }
+    
+    .homepage .custom_reservation_tab.cabBannerForm .multiwaytrip .form-banner-reservation .cus_loc_field {
+        width: 50% !important;
+    }
+    
+    .custom_reservation_tab form.form-banner-reservation .cus_loc_field, 
+    .custom_reservation_tab form.form-banner-reservation .cus_calendar_field, 
+    .custom_reservation_tab form.form-banner-reservation .cus_passenger_field {
+        width: 50% !important;
+    }
+    
+    .swipe {
+        right: -5% !important;
+        top: 47%;
+    }
+
+        
+    .homepage .custom_reservation_tab .multiwaytrip .form-banner-reservation .cus_loc_field {
+        width: 50% !important;
+        margin-bottom: 10px !important;
+    }
+    
+    .header-bar .header-bar-wrap {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+    }
+    .page-search #header-bar-2.header-bar,
+    .page-search .header-bar .header-bar-wrap {
+        position: static;
+    }
+    .subscribe-text {
+        text-align: center;
+    }
+    .booking_email_send {
+        width: 90%;
+    }
+    .booking_confirm .booking_info .person_details h4 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .booking_confirm .booking_info .person_details p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .booking_thanks p {
+        font-size: 12px;
+        line-height: 21px;
+    }
+    .pos_static {
+        position: static;
+    }
+    .custom_page_search .filter_close {
+        display: none;
+    }
+    /* .custom_page_search .filter_btn_style, .custom_page_search .filter_close{display:none;}  */
+    .page-search .filter_btn_style {
+        position: fixed;
+        bottom: 3px;
+        right: 10px;
+        display: block;
+        z-index: 9999;
+        background: #000;
+        border-radius: 25px;
+        padding: 5px 10px;
+    }
+    .page-search .roundtrip_search .filter_btn_style {
+        bottom: auto;
+        right: auto;
+        top: 63px;
+        left: 10px;
+    }
+    .page-search .filter_btn_style a.filter_btn span {
+        color: #fff;
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .page-search .filter_btn_style a.filter_btn i {
+        font-size: 14px;
+        line-height: 21px;
+        color: #fff;
+    }
+    .custom_page_search .filter_btn_style.filtershow {
+        display: none;
+    }
+    
+    /* .menu-mobile-btn{margin-left: 0px;} */
+    .oneway_search .cus_col_3,
+    .roundtrip_search .cus_col_3,
+    .internationtrip_search .cus_col_3 {
+        position: fixed;
+        top: 60px;
+        left: 0px;
+        width: 100%;
+        height: 100%;
+        z-index: 9999;
+        background: #fff;
+        box-shadow: 0px 2px 3px 0 rgba(0, 0, 0, 0.1);
+        display: none;
+        padding: 0px 0px 30px;
+    }
+    
+    .oneway_search .cus_col_3.show,
+    .roundtrip_search .cus_col_3.show {
+        display: block;
+    }
+    
+    .oneway_search .cus_col_3 .custom_sidebar.sidebar.style-1,
+    .roundtrip_search .cus_col_3 .custom_sidebar.sidebar.style-1,
+    .internationtrip_search .cus_col_3 .custom_sidebar.sidebar.style-1 {
+        background: transparent;
+        box-shadow: none;
+        height: 100%;
+        width: 100%;
+        margin: auto;
+        overflow: auto;
+        position: relative;
+    }
+    .custom_sidebar.sidebar.style-1 {
+        padding: 20px 8px;
+    }
+   
+    .custom_sidebar h3 {
+        text-align: center;
+        background: #5091fa;
+        color: #fff;
+        padding: 8px 10px;
+        font-size: 18px;
+        line-height: 21px;
+        border-radius: 4px;
+    }
+    .custom_sidebar h3 span {
+        color: #fff;
+    }
+    .custom_sidebar .applyfilter_btn {
+        position: fixed;
+        bottom: 0px;
+        width: 100%;
+        left: 0px;
+        z-index: 999;
+    }
+    .applyfilter_btn button {
+        width: 100%;
+    }
+    .mob_sticky_menu {
+        display: none;
+    }
+    /* .custom_page_search .cus_col_3.show .applyfilter_btn{display: block;} */
+    .custom_page_search .cus_col_3.show .filter_close,
+    .hotel_filter a.filter_close {
+        display: inline-block;
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        background: #000;
+        padding: 8px 15px;
+    }
+    /* .roundtrip_search .cus_col_3.show a.filter_close{top: 45px;} */
+    .custom_page_search a.filter_close i,
+    .hotel_filter a.filter_close i {
+        color: #fff;
+        font-size: 15px;
+    }
+    .custom_page_search .filter_head,
+    .hotel_filter .filter_head {
+        background: #5091fa;
+        padding: 10px 10px;
+        margin-bottom: 15px;
+        position: relative;
+        border-radius: 7px;
+        overflow: hidden;
+    }
+    .custom_page_search .filter_title,
+    .hotel_filter .filter_head .filter_title {
+        width: calc(100% - 30px);
+    }
+    .custom_page_search .filter_title h3,
+    .hotel_filter .filter_head .filter_title h3 {
+        color: #fff;
+        font-size: 18px;
+        line-height: 21px;
+        margin: 0px;
+        border: 0px;
+        padding: 0px;
+        background: transparent;
+        text-align: left;
+    }
+    .custom_page_search .filter_title h3 span,
+    .hotel_filter .filter_head .filter_title h3 span {
+        float: none;
+    }
+    .homepage .mob_sticky_menu {
+        display: block;
+        position: fixed;
+        bottom: 0px;
+        left: 0px;
+        width: 100%;
+        z-index: 999;
+        background: #fff;
+        padding: 10px 0px;
+    }
+    .homepage .mob_sticky_menu ul {
+        list-style-type: none;
+        padding: 0px;
+        margin: 0px;
+        display: flex;
+        justify-content: space-between;
+    }
+    #header-bar-2 .logo-header {
+        height: 50px;
+    }
+    .banner-parallax {
+        padding: 80px 0px 90px 0px;
+    }
+    .custom_reservation_tab form.form-banner-reservation .btncng_ser {
+        margin: 53px auto auto auto !important;
+    }
+    .vncbox>ul {
+        overflow: scroll;
+        margin-top: 20px;
+        flex-wrap: wrap;
+        gap: 18px 9px;
+    }
+    .homepage .mob_sticky_menu ul li {
+        text-align: center;
+        float: left;
+    }
+    .homepage .mob_sticky_menu ul li:last-child {
+        margin-right: 0px;
+    }
+    .homepage .mob_sticky_menu ul li a {
+        color: #000;
+    }
+    .homepage .mob_sticky_menu ul li a i {
+        display: block;
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .sidebar_menu {
+        padding: 20px 10px;
+    }
+    .homepage footer {
+        padding: 30px 0px 30px 0px;
+    }
+    .profile_info .profile_name h4 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .bookflight_info ul li {
+        margin-right: 4px;
+    }
+    .bookflight_info ul li a {
+        font-size: 12px;
+        line-height: 16px;
+        padding: 5px 13px;
+    }
+    .fli_detail {
+        float: left;
+    }
+    .fli_detail h4 {
+        color: #000;
+        margin: 0px;
+    }
+    .fli_detail h4 i.arrow_sm {
+        font-size: 12px;
+    }
+    .fli_detail span {
+        color: #000;
+        display: block;
+    }
+    .search_flight {
+        float: right;
+    }
+    .search_flight a {
+        background: #5091fa;
+        color: #fff;
+        padding: 7px 10px;
+        border-radius: 4px;
+        display: inline-block;
+    }
+    .page-search .section-content {
+        padding-top: 6px;
+    }
+    .close_flight {
+        position: fixed;
+        top: 70px;
+        right: 10px;
+        z-index: 99999;
+        background: #5091fa;
+        color: #fff;
+        border-radius: 50%;
+        padding: 5px 10px 2px;
+    }
+    .close_flight i {
+        font-size: 16px;
+        line-height: 21px;
+        color: #fff;
+    }
+    .custom_reservation_tab.search_mobile {
+        position: fixed;
+        top: 60px;
+        left: 0px;
+        width: 100%;
+        height: 100%;
+        z-index: 99999;
+        background: #efefef;
+        display: none;
+    }
+    .custom_reservation_tab.search_mobile.show {
+        display: block;
+    }
+    .custom_reservation_tab.search_mobile form.form-banner-reservation input {
+        background: #fff;
+        height: 60px;
+    }
+    .custom_reservation_tab.search_mobile .multiwaytrip form.form-banner-reservation input {
+        height: 50px;
+    }
+    .custom_reservation_tab.search_mobile form.form-banner-reservation .form-group>i {
+        top: 21px;
+    }
+    .custom_reservation_tab.search_mobile .multiwaytrip form.form-banner-reservation .form-group>i {
+        top: 16px;
+    }
+    .page-search .custom_reservation_tab.search_mobile .br-tabs-content button.roundformsearch,
+    .page-search .custom_reservation_tab.search_mobile .br-tabs-content button.multiroundformsearch {
+        height: 59px;
+    }
+    .page-search .custom_reservation_tab .multiwaytrip form.form-banner-reservation .cus_searchbtn_field button {
+        height: 50px;
+    }
+    .swipe.single_swipe {
+        top: 18px;
+    }
+    .custom_box_result ul.list-search-result li.pad_left10 {
+        padding-left: 5px;
+    }
+    .custom_box_result ul.list-search-result li.pad_left30 {
+        padding-left: 10px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li {
+        padding: 0px 4px;
+    }
+    .hide_mob_searh {
+        display: none !important;
+    }
+    .custom_reservation_tab .multiwaytrip .form-banner-reservation .ismultipleway a.closem {
+        padding: 8px 15px 8px;
+        margin-top: 25px;
+        margin-bottom: 20px;
+        margin-left: 25px;
+    }
+    .plane_seat_sec .seat_info {
+        border-bottom: 2px solid #dadada;
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+    .hotel_sidebar {}
+    .hotel_sidebar .hotel_filter {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        top: 0px;
+        left: 0px;
+        z-index: 99999;
+        display: none;
+        overflow-y: scroll;
+        padding: 10px 8px 50px 8px !important;
+    }
+    .hotel_sidebar.filtershow .hotel_filter {
+        display: block;
+    }
+    .hotel_filter_btn .filter_btn_style {
+        z-index: 999;
+        background: #000;
+        padding: 12px 10px;
+        border-radius: 30px;
+        text-align: center;
+        position: fixed;
+        bottom: 0px;
+        width: 100%;
+        left: 0px;
+    }
+    .hotel_filter_btn .filter_btn_style a.filter_btn {
+        font-size: 16px;
+        line-height: 21px;
+        color: #fff;
+        display: block;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .subscribe2-wrapper .subscribe-form input {
+        width: calc(75% - 15px);
+    }
+    .custom_reservation_tab form.form-banner-reservation .cus_loc_field,
+    .custom_reservation_tab form.form-banner-reservation .cus_calendar_field,
+    .custom_reservation_tab form.form-banner-reservation .cus_passenger_field {
+        width: 33%;
+    }
+    .custom_reservation_tab .multiwaytrip form.form-banner-reservation .ismultipleway .form-group {
+        width: 25%;
+        padding: 0px !important;
+    }
+    .custom_reservation_tab form.form-banner-reservation .cus_searchbtn_field {
+        width: 100% !important;
+    }
+    .swipe {
+        right: -13px;
+    }
+    /* .custom_reservation_tab form.form-banner-reservation .cus_searchbtn_field{width:33%;padding: 0px 0px 10px !important;} */
+    .custom_reservation_tab .multiwaytrip form.form-banner-reservation .cus_searchbtn_field {
+        width: 100%;
+        padding: 0px !important;
+    }
+    .inner_common_tabs ul.custom_tabs li a {
+        padding: 10px 23px;
+    }
+    .travel_col {
+        padding: 0px 30px 30px;
+    }
+    .travel_col .travel_icon img {
+        width: 120px;
+    }
+    .travel_col .travel_info h4 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    .travel_col .travel_info p {
+        font-size: 15px;
+        line-height: 26px;
+    }
+    .oneway_search .flight_info ul li,
+    .internationtrip_search .flight_info ul li {
+        padding: 10px 20px;
+    }
+    .roundtrip_search .flight_info ul li {
+        padding: 6px 5px 5px;
+    }
+    .count_search {
+        width: 100%;
+    }
+    .fli_detail h4 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .fli_detail h4 i.arrow_lg {
+        font-size: 16px;
+    }
+    .fli_detail span {
+        font-size: 12px;
+        line-height: 16px;
+        margin-left: 20px;
+    }
+    .search_flight a {
+        font-size: 13px;
+        line-height: 21px;
+    }
+    .stick_col_4 {
+        padding: 0px 5px;
+    }
+    .sticky_bottom ul li.flight_duration .cus_time {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .sticky_bottom ul li.flight_duration .arrow {
+        margin: 0px 5px;
+    }
+    .sticky_bottom ul li.flight_duration .arrow i {
+        font-size: 16px;
+    }
+    .sticky_bottom ul li.flight_price {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .sticky_bottom .stk_grand_total li.grandtotal_txt {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .sticky_bottom .stk_grand_total li.grandtotal_btn button {
+        font-size: 12px;
+        line-height: 16px;
+        padding: 7px 10px;
+    }
+    .sticky_bottom ul li.flight_txt img {
+        width: 25px;
+    }
+    .sticky_bottom ul li.flight_txt .flight_name {
+        width: calc(85px - 25px);
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .why_hotel_row .why_col_3:nth-child(1),
+    .why_hotel_row .why_col_3:nth-child(2) {
+        margin-bottom: 15px;
+    }
+    .popular_hotel_list .popular_item {
+        width: calc(25% - 10px);
+        margin-right: 11px;
+        margin-bottom: 10px;
+    }
+    .popular_hotel_list .popular_item:nth-child(4n) {
+        margin-right: 0px;
+    }
+    .popular_hotel_list .popular_item:nth-child(4n + 1) {
+        clear: both;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 991px) {
+    .search_field .cus_loc_field {
+        width: 44%;
+    }
+    .hotel_search .search_field .cus_loc_field {
+        width: 100%;
+    }
+    .hotel_search .search_field .cus_loc_field input {
+        /*border-bottom: 0px;*/
+    }
+    .hotel_search .search_field .cus_checkinout_field {
+        width: 100%;
+    }
+    .search_field .cus_calendar_field {
+        width: 28%;
+    }
+    .search_field .cus_passenger_field {
+        width: calc(100% - 115px);
+    }
+}
+
+@media (min-width: 481px) and (max-width: 991px) {
+    /* .custom_sidebar.sidebar.style-1{max-width: 300px;margin: 20px auto;} */
+    .booking_sidebar {
+        max-width: 300px;
+        margin: auto;
+    }
+    .homepage .mob_sticky_menu ul li {
+        margin-right: 10px;
+        width: calc(25% - 10px);
+    }
+    .homepage .mob_sticky_menu ul li a {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .plane_seat_sec .seat_list {
+        max-width: 410px;
+        margin: 0px auto;
+    }
+    .seat_list .table_data {
+        max-width: 350px;
+        padding: 10px 4px;
+    }
+    .seat_list table tr td {
+        font-size: 12px;
+        line-height: 16px;
+        padding: 10px 4px;
+    }
+    .seat_list table tr td span.ytfi-seat {
+        font-size: 10px;
+        width: 40px;
+        padding-left: 10px;
+    }
+    .seat_list table tr td span.ytfi-seat:before {
+        font-size: 42px;
+    }
+    .seat_list .cus_wings {
+        width: 140px;
+        height: 28px;
+    }
+    .seat_list .cus_wings.wings_top {
+        left: -55px;
+    }
+    .seat_list .cus_wings.wings_bottom {
+        right: -55px;
+    }
+    .seat_list .cus_wings span {
+        font-size: 16px;
+        top: 5px;
+    }
+}
+
+@media (max-width: 768px) {
+    .tnsall>input {
+        width: 100%;
+    }
+    
+    .custom_reservation_tab .br-tabs {
+        overflow-x: visible;
+    }
+    .custom_reservation_tab form.form-banner-reservation .br_right,
+    .custom_reservation_tab form.form-banner-reservation .right_rus {
+    }
+}
+
+@media (min-width: 768px) {
+    /* #banner .custom_reservation_tab{margin-bottom: 70px;padding: 20px 15px 10px;} */
+    .custom_reservation_tab form.form-banner-reservation input {
+        font-size: 14px;
+        padding: 10px 10px 10px 21px;
+        line-height: 21px;
+    }
+    .slide-content .custom_reservation_tab .br-tabs-content button.roundformsearch,
+    .slide-content .custom_reservation_tab .br-tabs-content .cus_searchbtn_field button.multiroundformsearch {
+        padding: 15px 35px;
+    }
+    .inner_best_offer h3 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .inner_best_offer .custom_tabs {
+        margin-left: 20px;
+    }
+    .inner_best_offer .custom_tabs li {
+        margin-right: 10px;
+    }
+    .inner_best_offer .custom_tabs li a {
+        padding: 4px 15px;
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .page-search .custom_reservation_tab .br-tabs-content button.roundformsearch,
+    .page-search .custom_reservation_tab .br-tabs-content .cus_searchbtn_field button.multiroundformsearch {
+        padding: 9px 10px 10px;
+    }
+    .inner_page .ul_count_3 ul {
+        column-count: 3;
+    }
+    .inner_page .ul_count_2 ul {
+        column-count: 2;
+    }
+    .inner_page h4 {
+        font-size: 21px;
+        line-height: 24px;
+    }
+    .custom_banner {
+        padding: 100px 0px;
+    }
+    .offer_banner {
+        padding: 200px 0px;
+    }
+    .travelagent_bg {
+        padding: 70px 0px;
+    }
+    .contact_map iframe {
+        height: 350px;
+    }
+    .contact_detail {
+        padding: 20px;
+    }
+    .contact_form {
+        padding: 20px;
+    }
+    .cus_collpse .panel-default h4 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .inner_common_tabs ul.custom_tabs li a {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .enquiry_info {
+        float: right;
+    }
+    .enquiry_info .girl_wrap .enqNumber {
+        padding: 15px;
+    }
+    .agent_form .inner_form_field .checkbox {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .travel_col {
+        height: 380px;
+        margin-bottom: 40px;
+        margin-top: 80px;
+    }
+    .travel_bgclr .travel_txt h4,
+    .travel_desk .travel_txt h3 {
+        font-size: 26px;
+        line-height: 30px;
+        margin: 0px 0px 20px;
+    }
+    .travel_bgclr .travel_txt p,
+    .travel_desk .travel_txt p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .travel_desk {
+        padding: 40px 0px;
+    }
+    .agent_form h1 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .traveller_info .note,
+    .traveller_info h4 {
+        margin-left: 16.6%;
+        padding-left: 15px;
+    }
+    .booking_title h3 {
+        font-size: 21px;
+        line-height: 24px;
+    }
+    .booking_title h3 span.cus_span {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .booking_title>a {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .pad_rt0 {
+        padding-right: 0px;
+    }
+    .flight_tags span {
+        padding: 3px 15px 6px;
+        font-size: 16px;
+    }
+    .custom_box_result ul.booking_list li.flight_name img {
+        width: 40px;
+    }
+    .custom_box_result ul.booking_list li.flight_name .name {
+        font-size: 13px;
+    }
+    .custom_box_result ul.booking_list li.flight_name .flight_no {
+        font-size: 12px;
+    }
+    .booking_sec .sub_title {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .booking_sec .sub_title a.open_signin {
+        font-size: 18px;
+        line-height: 21px;
+    }
+   
+    .booking_info {
+        display: flex;
+    }
+    .booking_info>div {
+        display: flex;
+        align-items: center;
+    }
+    .field_wd48 {
+        width: 48%;
+        float: left;
+    }
+    .mr_rt4 {
+        margin-right: 4%;
+    }
+    .booking_email_send .email_field input {
+        width: calc(100% - 152px);
+    }
+    .booking_email_send .phone_field input {
+        width: calc(100% - 158px);
+    }
+    .booking_email_send label {
+        margin-right: 20px;
+    }
+    .booking_email_send label,
+    .booking_email_send input {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .booking_email_send a {
+        font-size: 16px;
+        line-height: 21px;
+        padding: 13px 10px;
+    }
+    .view_print_ticket a {
+        font-size: 16px;
+        line-height: 21px;
+        margin-right: 10px;
+    }
+    .ticket_overview .ticket_table table thead tr th {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .ticket_overview .ticket_table table tbody tr td {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .ticket_overview .ticket_head h4 {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .ticket_overview .ticket_head h4 span {
+        font-size: 15px;
+    }
+    .booking_confirm .booking_info .brder_left {
+        border-left: 2px solid #ddd;
+    }
+    .booking_confrm_title h3 {
+        font-size: 30px;
+        line-height: 34px;
+        margin-bottom: 30px;
+    }
+    .flight_details a {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .carousel_timer .owl-item .item h4 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .carousel_timer .owl-item .item span {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .flight_info ul li {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .cus_tooltip {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .roundtrip_header ul li.date {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .roundtrip_header ul li.prev_next_btn a {
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .roundtrip_header ul li.prev_next_btn span {
+        height: 30px;
+    }
+    .roundtrip_header ul li {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .col_push_6 {
+        padding-left: 5px;
+        padding-right: 8px;
+    }
+    .col_pull_6 {
+        padding-left: 8px;
+        padding-right: 5px;
+    }
+    .brder_rgt {
+        border-right: 1px solid #fff;
+    }
+    .hide_desk {
+        display: none !important;
+    }
+    .sticky_bottom ul li.flight_txt {
+        width: 42%;
+    }
+    .sticky_bottom ul li.flight_duration {
+        width: 40%;
+    }
+    .sticky_bottom ul li.flight_price {
+        width: 18%;
+    }
+    .sticky_bottom .stk_grand_total li {
+        width: 50%;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li.round_check {
+        width: 20px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li.round_check .checkbox-default .checkboxmark {
+        height: 20px;
+        width: 20px;
+        flex: 0 0 20px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li.round_check .checkbox-default .checkboxmark:after {
+        left: 5px;
+        top: 5px;
+        width: 10px;
+        height: 10px;
+    }
+    .layover_time .layover_txt {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .service_req_sec .service_req_list ul li {
+        width: calc(33% - 5px);
+        margin-right: 10px;
+    }
+    .service_req_sec .service_req_list ul li:nth-child(3n) {
+        margin-right: 0px;
+    }
+    .service_req_sec .service_req_list ul li:nth-child(3n + 1) {
+        clear: both;
+    }
+    .addonspassenger {
+        padding: 8px 12px;
+    }
+    .service_req_sec .service_req_list ul li input {
+        width: 20px;
+        height: 20px;
+    }
+    .service_req_sec .service_req_list ul li .serv_txt {
+        width: calc(100% - 35px);
+        margin-left: 10px;
+    }
+    .service_req_sec .service_req_list ul li .serv_txt .serv_icon i {
+        font-size: 30px;
+    }
+    .service_req_sec .service_req_list ul li .serv_price i {
+        font-size: 21px;
+    }
+    .service_req_sec .service_req_list ul li .serv_type {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .service_req_sec .service_req_list ul li .serv_price {
+        font-size: 21px;
+        line-height: 24px;
+    }
+    .hotel_search form .form-group input.form-control {
+        font-size: 14px;
+        padding: 10px 10px;
+        line-height: 21px;
+    }
+    .search_field .cus_passenger_field .select_guest span.guests_selected {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .hotel_search .form-group>i {
+        right: 20px;
+        font-size: 18px;
+    }
+    .hotel_search h4 {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .hotel_search p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .popular_hotel_list .popular_item h5 {
+        font-size: 16px;
+        line-height: 21px;
+        margin: 8px 0px 6px;
+    }
+    .browse_prop_type {
+        padding: 20px 15px;
+    }
+    .cheapest_txt h4 {
+        font-size: 18px;
+        line-height: 21px;
+        margin: 0px 0px 15px;
+    }
+    .cheapest_txt p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .hotel_list .hotel_item .hotel_info .left {
+        float: left;
+        width: calc(75% - 15px);
+        margin-right: 10px;
+        border-right: 1px solid #ccc;
+        height: 100%;
+    }
+    .hotel_list .hotel_item .hotel_info .right {
+        float: right;
+        width: 25%;
+    }
+    .hotel_info .room_price {
+        text-align: center;
+        display: block;
+    }
+    .hotel_info .room_price span {
+        display: block;
+    }
+    .hotel_info .room_price span.price_value {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .hotel_info .room_price span.price_value i {
+        font-size: 18px;
+    }
+    .hotel_list .hotel_item .hotel_info .select_hotel_btn {
+        margin-top: 10px;
+        display: block;
+        text-align: center;
+    }
+    .hotel_list .hotel_item .hotel_info .select_hotel_btn a {
+        font-size: 13px;
+        padding: 10px 12px;
+    }
+    .hotel_list_sec .result_found h4 {
+        font-size: 18px;
+    }
+    .hotel_list_sec .result_found h4 span {
+        font-size: 21px;
+    }
+    .hotel_sorting label {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .hotel_sorting select {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 8px;
+        margin-left: 10px;
+    }
+    .hotel_list .hotel_item .hotel_info .room_amenities ul li {
+        font-size: 11px;
+        line-height: 14px;
+        padding: 2px 5px;
+    }
+    .hotel_main_info .hotel_inner {
+        display: inline-block;
+    }
+    .hotel_location {
+        display: inline-block;
+        float: right;
+    }
+    .room_type_sec h5 {
+        font-size: 16px;
+        line-height: 21px;
+        font-weight: 600;
+    }
+    .hotel_amenities .all_amenity_list ul li {
+        margin: 0px 5px 8px 0;
+        font-size: 13px;
+        line-height: 16px;
+        padding: 6px 8px;
+    }
+    .room_type_sec .booking_btn a {
+        font-size: 13px;
+        line-height: 16px;
+        padding: 10px 20px;
+    }
+    .room_type_sec .room_type_col span {
+        font-size: 14px;
+        line-height: 18px;
+        font-weight: 600;
+    }
+    .inner_booking_info .room_img {
+        float: left;
+        width: 32%;
+    }
+    .inner_booking_info .hotel_info_rgt {
+        float: left;
+        width: calc(68% - 16px);
+        margin-left: 15px;
+    }
+    .more_flight_fare .samefaredetail span.published_price {
+        font-size: 14px;
+        line-height: 18px;
+        display: inline-block;
+    }
+    .more_flight_fare .samefaredetail span.published_price .currency_symb {
+        font-size: 11px;
+        line-height: 16px;
+        vertical-align: top;
+        margin-right: 2px;
+    }
+    .more_flight_fare .samefaredetail span.net_price {
+        font-size: 13px;
+        line-height: 16px;
+        display: inline-block;
+    }
+    .more_flight_fare .samefaredetail span.net_price .currency_symb {
+        font-size: 11px;
+        line-height: 15px;
+        vertical-align: top;
+    }
+    .more_flight_fare .samefaredetail span.flight_extra_classification {
+        font-size: 12px;
+        line-height: 16px;
+        color: #000;
+    }
+    .more_flight_fare .samefaredetail span.seats_available {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .more_flight_fare .samefaredetail .flight_extra_info span.faretype {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .more_flight_fare .samefaredetail span.flight_extra_classification span {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 4px 7px;
+    }
+}
+
+@media (max-width: 767px) {
+    .custom_reservation_tab form.form-banner-reservation .cus_loc_field,
+    .custom_reservation_tab form.form-banner-reservation .cus_calendar_field,
+    .custom_reservation_tab form.form-banner-reservation .cus_passenger_field {
+        width: 50%;
+    }
+    /* .custom_reservation_tab form.form-banner-reservation .cus_searchbtn_field{width:50%;padding: 0px !important;}  */
+    .custom_reservation_tab .multiwaytrip form.form-banner-reservation .cus_searchbtn_field {
+        width: 100%;
+        padding: 0px !important;
+    }
+    .custom_reservation_tab .multiwaytrip form.form-banner-reservation .cus_searchbtn_field button {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    #banner .custom_reservation_tab {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding: 15px 6px 10px;
+        padding-bottom: 50px;
+        border-radius: 10px !important;
+    }
+    .tb_idea .nav-tabs,
+    .ftab .nav-tabs {
+        display: flex;
+        white-space: nowrap;
+        overflow: scroll;
+        min-height: 50px;
+    }
+    .ideaall_tb>a {
+        width: 100%;
+    }
+    .ideaimg {
+        width: 150px;
+    }
+    #banner .banner-center-box {
+        padding: 20px 0 20px;
+    }
+    .custom_reservation_tab form.form-banner-reservation .form-group>i {
+        right: 15px;
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .custom_reservation_tab form.form-banner-reservation input {
+        font-size: 12px;
+        padding: 8px 6px;
+        line-height: 16px;
+    }
+    .slide-content .custom_reservation_tab .br-tabs-content button.roundformsearch,
+    .slide-content .custom_reservation_tab .br-tabs-content button.multiroundformsearch {
+        padding: 15px 6px;
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .mt-md-50 {
+        margin-top: 30px;
+    }
+    .inner_best_offer h3 {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .inner_best_offer .custom_tabs {
+        margin-left: 8px;
+    }
+    .inner_best_offer .custom_tabs li {
+        margin-right: 5px;
+    }
+    .inner_best_offer .custom_tabs li a {
+        padding: 4px 7px;
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .subscribe-text h2 {
+        font-size: 21px;
+        line-height: 26px;
+    }
+    .subscribe-form form {
+        width: 100%;
+        position: relative;
+    }
+    .subscribe-text span {
+        letter-spacing: 1px;
+    }
+    .subscribe2-wrapper .subscribe-form input {
+        height: 40px;
+        width: calc(100% - 115px);
+        font-size: 13px;
+        line-height: 18px;
+        padding: 10px 15px;
+        margin-right: 0px;
+    }
+    .subscribe2-wrapper .subscribe-form button {
+        font-size: 12px;
+        line-height: 18px;
+        padding: 9px 15px;
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        height: auto;
+    }
+    .subscribe2-wrapper .subscribe-form button i {
+        font-size: 15px;
+        padding-left: 2px;
+        line-height: 21px;
+    }
+    footer.footer .col {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .footer_ul_amrc li a {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    footer p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .side-panel-menu {
+        width: 290px;
+        padding: 60px 10px;
+    }
+    .side-panel-menu .mobile-side-panel-menu {
+        padding: 20px 0;
+        margin: 0px;
+    }
+    .side-panel-menu .mobile-side-panel-menu #menu-mobile {
+        margin-top: 0px;
+        padding: 10px 0 20px;
+    }
+    .side-panel-menu .mobile-side-panel-menu #menu-mobile li a {
+        padding: 10px 20px 10px 0;
+        font-size: 14px;
+    }
+    .side-panel-menu .mobile-side-panel-menu #menu-mobile li a:after {
+        top: 5px;
+    }
+    .ui-datepicker-multi-2 .ui-datepicker-group {
+        width: 100% !important;
+    }
+    #ui-datepicker-div {
+        left: -5px !important;
+        width: 102% !important;
+        height: 100%;
+        background-color: #FAFAFA;
+        padding: 0;
+        top: 0 !important;
+        overflow-x: hidden;
+    }
+    .ui-datepicker-multi .ui-datepicker-group table {
+        width: 100%;
+    }
+    
+    .page-search .custom_reservation_tab .br-tabs-content button.roundformsearch,
+    .page-search .custom_reservation_tab .br-tabs-content button.multiroundformsearch {
+        padding: 10px 8px 10px;
+        width: 100%;
+        font-size: 11px;
+        line-height: 20px;
+    }
+    .inner_page h4 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .custom_banner {
+        padding: 40px 0px;
+    }
+    .offer_banner {
+        padding: 120px 0px;
+    }
+    .travelagent_bg {
+        padding: 30px 0px;
+    }
+    .contact_map iframe {
+        height: 250px;
+    }
+    .contact_info {
+        margin-bottom: 30px;
+    }
+    .contact_detail {
+        padding: 10px;
+    }
+    .contact_form {
+        padding: 15px;
+    }
+    .cus_collpse .panel-default h4 {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .inner_common_tabs ul.custom_tabs li a {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .enquiry_info {
+        max-width: 300px;
+        margin: 0px auto 40px;
+    }
+    .enquiry_info .girl_wrap .enqNumber {
+        padding: 10px;
+    }
+    .popup-preview-2 .block-content {
+        padding: 30px 20px;
+        max-width: initial;
+        min-width: initial;
+    }
+    .agent_form .inner_form_field .checkbox {
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+    .travel_col {
+        height: auto;
+        margin-bottom: 120px;
+        margin-top: 80px;
+        padding-bottom: 40px;
+    }
+    .travel_bgclr .row .col_4:nth-child(3) .travel_col {
+        margin-bottom: 60px;
+    }
+    .inner_travelagent .how_img {
+        margin-bottom: 20px;
+    }
+    .travel_bgclr .travel_txt h4,
+    .travel_desk .travel_txt h3 {
+        font-size: 21px;
+        line-height: 26px;
+        margin: 0px 0px 10px;
+    }
+    .travel_bgclr .travel_txt p,
+    .travel_desk .travel_txt p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .travel_desk {
+        padding: 30px 0px;
+    }
+    .agent_form h1 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    .booking_title h3 {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .booking_title h3 span.cus_span {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .booking_title>a {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .flight_tags span {
+        padding: 3px 10px 3px;
+        font-size: 14px;
+    }
+    .custom_box_result ul.booking_list li.flight_name {
+        padding-left: 20px;
+    }
+    .custom_box_result ul.booking_list li.flight_name img {
+        width: 30px;
+    }
+    .custom_box_result ul.booking_list li.flight_name .name {
+        font-size: 11px;
+    }
+    .custom_box_result ul.booking_list li.flight_name .flight_no {
+        font-size: 10px;
+    }
+    .booking_sec .sub_title {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .booking_sec .sub_title a.open_signin {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .field_wd48 {
+        width: 100%;
+    }
+    .booking_email_send input {
+        width: calc(100% - 135px);
+        padding: 10px 10px;
+    }
+    .booking_email_send label {
+        width: 50px;
+        margin-right: 5px;
+    }
+    .booking_email_send label,
+    .booking_email_send input {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .booking_email_send a {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 11px 10px;
+    }
+    .view_print_ticket a {
+        font-size: 14px;
+        line-height: 18px;
+        margin-right: 5px;
+    }
+    .ticket_overview .ticket_table table thead tr th,
+    .ticket_overview .ticket_table table tbody tr td {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .ticket_overview .ticket_head h4 {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .ticket_overview .ticket_head h4 span {
+        font-size: 13px;
+    }
+    .booking_confirm .booking_info .brder_left {
+        border-top: 2px solid #ddd;
+        margin: 10px 0px;
+    }
+    .booking_confrm_title h3 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .flight_details a {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .carousel_timer .owl-item .item h4 {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .carousel_timer .owl-item .item span {
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .baggcol_3 {
+        padding: 0px 6px;
+    }
+    .profile_image {
+        width: 160px;
+        height: 160px;
+    }
+    .sidebar_menu {
+        margin-bottom: 30px;
+    }
+    .bookflight_info ul li {
+        margin-bottom: 5px;
+    }
+    .popup-preview-2 .block-content {
+        padding: 20px 10px;
+        width: 100%;
+    }
+    .flight_info ul li {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .roundtrip_header ul li.date {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .roundtrip_header ul li.prev_next_btn a {
+        font-size: 8px;
+        line-height: 13px;
+    }
+    .roundtrip_header ul li.prev_next_btn span {
+        height: 23px;
+    }
+    .roundtrip_search .flight_info ul li {
+        padding: 4px 3px;
+    }
+    .col_push_6 {
+        padding-left: 4px;
+        padding-right: 3px;
+    }
+    .col_pull_6 {
+        padding-left: 3px;
+        padding-right: 4px;
+    }
+    .fli_detail h4 {
+        font-size: 13px;
+        line-height: 16px;
+    }
+    .fli_detail h4 i.arrow_lg {
+        font-size: 14px;
+    }
+    .fli_detail span {
+        font-size: 10px;
+        line-height: 14px;
+        margin-left: 17px;
+    }
+    .search_flight a {
+        font-size: 11px;
+        line-height: 16px;
+    }
+    .hide_mob {
+        display: none !important;
+    }
+    .sticky_bottom ul li.flight_txt .flight_name {
+        visibility: hidden;
+        width: 100%;
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .sticky_bottom ul li.flight_txt .flight_name>span {
+        visibility: visible;
+        position: absolute;
+        top: 4px;
+    }
+    .sticky_bottom .stk_btm_sec ul li {
+        display: inline-block;
+        float: none;
+    }
+    .sticky_bottom ul li.flight_txt {
+        width: 40px;
+        margin-right: 3px;
+        display: inline-block;
+        float: none;
+        position: relative;
+        height: 22px;
+    }
+    .sticky_bottom .col_mob_60 {
+        width: 60%;
+        float: left;
+        padding: 0px;
+        margin: auto;
+    }
+    .sticky_bottom .col_mob_40 {
+        width: 40%;
+        float: left;
+        padding: 0px;
+        margin: auto;
+    }
+    .sticky_bottom .stick_col_4.brder_rgt {
+        padding: 0px;
+        padding-right: 6px;
+        margin-right: 6px;
+        border-right: 1px solid #fff;
+    }
+    .sticky_bottom .stick_col_4 {
+        width: 100%;
+        padding: 0px;
+    }
+    .sticky_bottom .stick_col_4.brder_rgt {
+        width: auto;
+    }
+    .sticky_bottom ul li.flight_price {
+        width: auto;
+        display: inline-block;
+    }
+    .sticky_bottom .stick_col_4.brder_rgt+.stick_col_4.brder_rgt {
+        padding-right: 0px;
+        margin-right: 0px;
+        border-right: 0px;
+    }
+    .grandtotal_btn button {
+        background: #89ad3e;
+        padding: 10px 20px;
+        font-size: 14px;
+        display: block;
+        width: 100%;
+        border: 0px;
+        outline: none;
+        box-shadow: none;
+    }
+    .sticky_bottom>div {
+        padding: 0px 10px;
+    }
+    .round_trip_list {
+        max-height: 400px;
+        overflow: scroll;
+    }
+    .sticky_bottom .stk_grand_total li.grandtotal_txt>span {
+        margin-left: 5px;
+    }
+    .flight_loader .inner_loader {
+        width: 86%;
+        margin: 0px auto;
+    }
+    .popup-preview .block-content .popup-close {
+        width: 34px;
+        height: 34px;
+        top: 5px;
+        right: 6px;
+    }
+    .popup-preview-2 .block-content .block-title {
+        padding-bottom: 20px;
+        padding-right: 30px;
+    }
+    .layover_time .layover_txt {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .service_req_sec .service_req_list ul li {
+        width: calc(50% - 5px);
+        margin-right: 10px;
+    }
+    .service_req_sec .service_req_list ul li:nth-child(2n) {
+        margin-right: 0px;
+    }
+    .service_req_sec .service_req_list ul li:nth-child(2n + 1) {
+        clear: both;
+    }
+    .addonspassenger {
+        padding: 8px 0px;
+    }
+    .service_req_sec .service_req_list ul li input {
+        width: 15px;
+        height: 15px;
+    }
+    .service_req_sec .service_req_list ul li .serv_txt {
+        width: calc(100% - 25px);
+        margin-left: 10px;
+    }
+    .service_req_sec .service_req_list ul li .serv_txt .serv_icon i {
+        font-size: 24px;
+    }
+    .service_req_sec .service_req_list ul li .serv_price i {
+        font-size: 14px;
+    }
+    .service_req_sec .service_req_list ul li .serv_type {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .service_req_sec .service_req_list ul li .serv_price {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .why_hotel_row .why_col_3 {
+        margin-bottom: 35px;
+    }
+    .popular_hotel_list .popular_item {
+        width: calc(50% - 5px);
+        margin-right: 5px;
+        margin-bottom: 10px;
+    }
+    .popular_hotel_list .popular_item:nth-child(2n) {
+        margin-right: 0px;
+    }
+    .popular_hotel_list .popular_item:nth-child(2n + 1) {
+        clear: both;
+    }
+    .hotel_search form .form-group input.form-control {
+        font-size: 12px;
+        padding: 10px 5px;
+        line-height: 16px;
+    }
+    .search_field .cus_passenger_field .select_guest span.guests_selected {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .hotel_search .form-group>i {
+        right: 10px;
+        font-size: 15px;
+    }
+    .hotel_search h4 {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .hotel_search p {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    #banner .hotel_search {
+        margin: 100px 0 40px;
+    }
+    .popular_hotel_list .popular_item h5 {
+        font-size: 14px;
+        line-height: 18px;
+        margin: 6px 0px 4px;
+    }
+    .browse_prop_type {
+        padding: 15px 10px 10px;
+    }
+    .cheapest_txt h4 {
+        font-size: 15px;
+        line-height: 21px;
+        margin: 0px 0px 10px;
+    }
+    .cheapest_txt p {
+        font-size: 13px;
+        line-height: 21px;
+    }
+    .hotel_list .hotel_item .hotel_info .left {
+        width: 100%;
+        margin-bottom: 8px;
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 6px;
+    }
+    .hotel_list .hotel_item .hotel_info .right {
+        float: left;
+        width: 100%;
+    }
+    .hotel_info .room_price {
+        float: left;
+        width: 50%;
+    }
+    .hotel_info .room_price span {
+        display: inline-block;
+    }
+    .hotel_info .room_price span.price_value {
+        font-size: 20px;
+        line-height: 24px;
+        display: block;
+    }
+    .hotel_info .room_price span.price_value i {
+        font-size: 15px;
+    }
+    .hotel_list .hotel_item .hotel_info .select_hotel_btn {
+        margin-top: 10px;
+        float: left;
+        width: 50%;
+        text-align: right;
+    }
+    .hotel_list .hotel_item .hotel_info .select_hotel_btn a {
+        font-size: 12px;
+        padding: 8px 10px;
+    }
+    .hotel_list_sec .result_found h4 {
+        font-size: 15px;
+    }
+    .hotel_list_sec .result_found h4 span {
+        font-size: 18px;
+    }
+    .hotel_sorting label {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .hotel_sorting select {
+        font-size: 12px;
+        line-height: 16px;
+        padding: 5px;
+        margin-left: 6px;
+    }
+    .hotel_list .hotel_item .hotel_info .room_amenities ul li {
+        font-size: 10px;
+        line-height: 13px;
+        padding: 2px 4px;
+    }
+    .hotel_main_info .hotel_inner {
+        display: block;
+    }
+    .hotel_location {
+        display: block;
+        float: none;
+        margin: 12px 0px 0px;
+    }
+    .room_type_sec h5 {
+        font-size: 13px;
+        line-height: 16px;
+        font-weight: 500;
+    }
+    .hotel_amenities .all_amenity_list ul li {
+        margin: 0px 4px 6px 0;
+        font-size: 12px;
+        line-height: 15px;
+        padding: 3px 5px;
+    }
+    .room_type_sec .room_type_head,
+    .room_type_sec .room_type_body {
+        display: table;
+        width: 100%;
+    }
+    .room_type_sec .room_type_head .room_type_row,
+    .room_type_sec .room_type_body .room_type_row {
+        display: table-row;
+    }
+    .room_type_sec .room_type_row .room_type_col {
+        display: table-cell;
+        vertical-align: top;
+    }
+    .room_type_sec .booking_btn a {
+        font-size: 12px;
+        line-height: 15px;
+        padding: 8px 12px;
+    }
+    .room_type_sec .room_type_col span {
+        font-size: 13px;
+        line-height: 16px;
+        font-weight: 500;
+    }
+    .inner_booking_info .room_img {
+        width: 100%;
+    }
+    .inner_booking_info .hotel_info_rgt {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .more_flight_fare .samefaredetail span.published_price {
+        font-size: 12px;
+        line-height: 16px;
+        display: inline-block;
+    }
+    .more_flight_fare .samefaredetail span.published_price .currency_symb {
+        font-size: 11px;
+        line-height: 16px;
+        vertical-align: top;
+    }
+    .more_flight_fare .samefaredetail span.net_price {
+        font-size: 11px;
+        line-height: 15px;
+        display: inline-block;
+    }
+    .more_flight_fare .samefaredetail span.net_price .currency_symb {
+        font-size: 10px;
+        line-height: 15px;
+        vertical-align: top;
+    }
+    .more_flight_fare .samefaredetail span.flight_extra_classification {
+        font-size: 11px;
+        line-height: 15px;
+        color: #000;
+    }
+    .more_flight_fare .samefaredetail span.seats_available {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .more_flight_fare .samefaredetail .flight_extra_info span.faretype {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .more_flight_fare .samefaredetail span.flight_extra_classification span {
+        font-size: 12px;
+        line-height: 16px;
+        padding: 2px 5px;
+    }
+}
+
+@media (min-width: 601px) and (max-width: 767px) {
+    .count_search {
+        width: 60%;
+    }
+    .roundtrip_header ul li:first-child {
+        width: 28%;
+    }
+    .roundtrip_header ul li:nth-child(2) {
+        width: 30%;
+    }
+    .roundtrip_header ul li:last-child {
+        width: 40%;
+    }
+    .roundtrip_header ul li {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result.result_list li span.date {
+        font-size: 12px;
+        line-height: 16px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .inner_page .ul_count_3 ul,
+    .inner_page .ul_count_2 ul {
+        column-count: 2;
+    }
+    .inner_common_tabs ul.custom_tabs li a {
+        padding: 10px 18px;
+    }
+    .oneway_search .flight_info ul li,
+    .internationtrip_search .flight_info ul li {
+        padding: 5px 10px;
+    }
+    form .custom_block_content .traveller_info .form_field {
+        width: calc(49% - 10px);
+    }
+    form .custom_block_content .form_field {
+        width: 30%;
+    }
+    form .custom_block_content.signin_content .form_field {
+        width: 26%;
+    }
+    form .custom_block_content .form_field.country_field {
+        width: 45%;
+    }
+    .cus_tooltip {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .sticky_bottom ul li.flight_duration .cus_time {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .sticky_bottom ul li.flight_duration .arrow {
+        margin: 0px 5px;
+    }
+    .sticky_bottom ul li.flight_duration .arrow i {
+        font-size: 16px;
+    }
+    .sticky_bottom ul li.flight_price {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .sticky_bottom .stk_grand_total li.grandtotal_txt {
+        font-size: 16px;
+        line-height: 21px;
+        margin-top: 5px;
+    }
+    .sticky_bottom .stk_grand_total li.grandtotal_btn button {
+        font-size: 12px;
+        line-height: 16px;
+        padding: 7px 10px;
+    }
+    .sticky_bottom ul li.flight_txt img {
+        width: 25px;
+    }
+    /* .sticky_bottom ul li.flight_txt .flight_name{width: calc(100% - 30px);font-size: 10px;line-height: 14px;} */
+    .sticky_bottom .row .brder_rgt:nth-child(2) {
+        border-right: 0px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li.round_check {
+        width: 14px;
+        float: right;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li.round_check .checkbox-default .checkboxmark {
+        height: 16px;
+        width: 16px;
+        flex: 0 0 16px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li.round_check .checkbox-default .checkboxmark:after {
+        left: 4px;
+        top: 4px;
+        width: 8px;
+        height: 8px;
+    }
+}
+
+@media (min-width: 601px) {
+    .custom_banner .banner_txt .title h3 {
+        font-size: 28px;
+        line-height: 32px;
+        margin: 0px 0px 20px;
+    }
+    .inner_notfound .found_whitebg h3,
+    .inner_construct .construct_whitebg h3,
+    .success_style .success_whitebg h3,
+    .inner_comingsoon .comingsoon_whitebg h3 {
+        font-size: 30px;
+        line-height: 34px;
+    }
+    .inner_notfound .found_whitebg,
+    .inner_construct .construct_whitebg,
+    .success_style .success_whitebg,
+    .inner_comingsoon .comingsoon_whitebg {
+        padding: 20px 30px 50px;
+    }
+    .inner_offer .offer_col .offer_type span.date,
+    .inner_offer .offer_col .offer_type span.name {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .inner_offer .offer_col .offer_info .offer_name h4 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .service_req_sec .service_req_list ul li .baggage_name {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .service_req_sec #addmeal .service_req_list ul li .baggage_name {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    /* .service_req_sec .service_req_list ul li .baggage_price, .service_req_sec .service_req_list ul li .baggage_select{font-size:14px;line-height:21px;} */
+    .custom_box_result ul.list-search-result li {
+        font-size: 13px;
+        line-height: 21px;
+        padding: 0px 10px;
+    }
+    .oneway_search .custom_box_result ul.list-search-result li.price {
+        font-size: 21px;
+        line-height: 24px;
+    }
+    .oneway_search .custom_box_result ul.list-search-result.result_list li span.date {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .btn.colorful-transparent.btn_green {
+        font-size: 12px;
+        padding: 5px 10px;
+    }
+    .flight_route,
+    .fare_details,
+    .baggage_info {
+        padding: 10px;
+    }
+    .flight_route h4 {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    .flight_route .flight_route_list ul li {
+        padding: 0px 10px;
+    }
+    .flight_route .flight_route_list ul li .flight_name {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .roundtrip_search .flight_route .flight_route_list ul li .flight_name {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .flight_route .flight_route_list ul li.flight_timer {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .flight_route .flight_route_list ul li.flight_timer span {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .profile_component {
+        padding: 20px 0px 2px 30px;
+    }
+    .profile_component .profile_header h3 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .profile_component .profile_header p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .profile_status p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .profile_status .profile_verify {
+        padding: 18px 20px;
+        margin-top: 27px;
+    }
+    .profile_status .profile_verify ul li a,
+    .profile_status .profile_verify ul li span {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .profile_component .profile_header .custom_profbtn a {
+        padding: 10px 18px;
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .profile_status {
+        padding: 20px 30px;
+    }
+    .custom_block_content {
+        margin-top: 10px;
+    }
+    .custom_block_content+.custom_block_content {
+        margin-top: 10px;
+    }
+    .carousel_timer .owl-item .item span {
+        margin-bottom: 6px;
+    }
+    .cus_tooltip .tooltiptext {
+        width: 100px;
+        font-size: 12px;
+        line-height: 21px;
+        padding: 5px 10px;
+    }
+    .sticky_bottom {
+        padding-bottom: 15px;
+        padding-top: 15px;
+    }
+    .custom_block_content .inter_trip_left .cus_dep_arr_time span.date {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .hotel_list .hotel_item {
+        display: flex;
+    }
+    .hotel_list .hotel_item .hotel_img {
+        float: left;
+        width: 30%;
+        position: relative;
+        height: 220px;
+    }
+    .hotel_list .hotel_item .hotel_info {
+        float: left;
+        width: calc(70% - 5px);
+        margin-left: 5px;
+        padding: 10px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 600px) {
+    .custom_box_result ul.list-search-result li {
+        font-size: 12px;
+        line-height: 18px;
+        padding: 0px 5px;
+    }
+    .custom_box_result ul.list-search-result li.pad_left10 {
+        padding-left: 8px;
+    }
+    .custom_box_result ul.list-search-result li.pad_left30 {
+        padding-left: 15px;
+    }
+    .oneway_search .custom_box_result ul.list-search-result li.price,
+    .roundtrip_search .custom_box_result ul.list-search-result li.price {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .custom_box_result ul.list-search-result.result_list li span.date {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .btn.colorful-transparent.btn_green {
+        font-size: 11px;
+        padding: 5px 5px;
+    }
+    .count_search {
+        width: 80%;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result.result_list li span.date {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .sticky_bottom {
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+    .custom_block_content .inter_trip_left .cus_dep_arr_time span.date {
+        font-size: 14px;
+        line-height: 18px;
+    }
+}
+
+@media (max-width: 600px) {
+    .custom_banner .banner_txt .title h3 {
+        font-size: 21px;
+        line-height: 26px;
+        margin: 0px 0px 10px;
+    }
+    .inner_notfound .found_whitebg h3,
+    .inner_construct .construct_whitebg h3,
+    .success_style .success_whitebg h3,
+    .inner_comingsoon .comingsoon_whitebg h3 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    .inner_notfound .found_whitebg,
+    .inner_construct .construct_whitebg,
+    .success_style .success_whitebg,
+    .inner_comingsoon .comingsoon_whitebg {
+        padding: 20px 15px 40px;
+    }
+    .inner_offer .offer_col .offer_type span.date,
+    .inner_offer .offer_col .offer_type span.name {
+        font-size: 11px;
+        line-height: 16px;
+    }
+    .inner_offer .offer_col .offer_info .offer_name h4 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .service_req_sec .service_req_list ul li .baggage_name {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .service_req_sec #addmeal .service_req_list ul li .baggage_name {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    /* .service_req_sec .service_req_list ul li .baggage_price, .service_req_sec .service_req_list ul li .baggage_select{font-size:13px;line-height:21px;} */
+    .flight_details_info ul.custom_tabs li a {
+        padding: 8px 6px;
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .flight_route,
+    .fare_details,
+    .baggage_info,
+    .cancellationrule_info {
+        padding: 10px 5px;
+    }
+    .flight_route h4 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .flight_route .flight_route_list ul li {
+        padding: 0px 4px;
+    }
+    .flight_route .flight_route_list ul li .flight_name {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    /* .roundtrip_search .flight_route .flight_route_list ul li .flight_name{font-size: 14px;line-height: 21px;} */
+    .flight_route .flight_route_list ul li.flight_timer {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .flight_route .flight_route_list ul li.flight_timer span {
+        font-size: 11px;
+        line-height: 16px;
+    }
+    .profile_component {
+        padding: 20px 0px 2px 20px;
+    }
+    .profile_component .profile_header h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .profile_component .profile_header p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .profile_status p {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .profile_status .profile_verify {
+        padding: 12px 10px;
+        margin-top: 15px;
+    }
+    .profile_status .profile_verify ul li a,
+    .profile_status .profile_verify ul li span {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .profile_component .profile_header .custom_profbtn a {
+        font-size: 12px;
+        line-height: 18px;
+        padding: 10px;
+    }
+    .profile_status {
+        padding: 15px 10px;
+    }
+    .custom_block_content {
+        margin-top: 0px;
+    }
+    .custom_block_content+.custom_block_content {
+        margin-top: 5px;
+    }
+    .menu-mobile ul.sub-menu {
+        padding-top: 0px;
+    }
+    .custom_reservation_tab .br-tabs li+li {
+        margin-left: 5px;
+    }
+    #banner .custom_reservation_tab .br-tabs li a {
+        font-size: 11px;
+        line-height: 15px;
+        padding: 4px 8px;
+    }
+    .custom_reservation_tab .br-tabs-content>li {
+        padding: 0px;
+    }
+    .roundtrip_header ul li:first-child {
+        width: 48%;
+    }
+    .roundtrip_header ul li:nth-child(2) {
+        width: 48%;
+    }
+    .roundtrip_header ul li:last-child {
+        width: 100%;
+    }
+    .roundtrip_header ul li {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result.result_list li {
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .cus_tooltip .tooltiptext {
+        padding: 5px 7px;
+        width: 80px;
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .search_field .cus_loc_field,
+    .hotel_search .search_field .cus_checkinout_field {
+        width: 100%;
+    }
+    .search_field .cus_calendar_field {
+        width: 50%;
+    }
+    .search_field .cus_passenger_field {
+        width: calc(100% - 104px);
+    }
+    .search_field .cus_searchbtn_field button {
+        font-size: 12px;
+    }
+    .hotel_list .hotel_item .hotel_img {
+        width: 100%;
+        position: relative;
+        height: 180px;
+    }
+    .hotel_list .hotel_item .hotel_img img {
+        height: 100%;
+        object-fit: cover;
+    }
+    .hotel_list .hotel_item .hotel_info {
+        width: 100%;
+        padding: 10px;
+    }
+}
+
+@media (min-width: 481px) {
+    .inner_best_offer .swiper_button {
+        top: -40px;
+    }
+    .inner_best_offer .tab-content {
+        margin-top: 15px;
+    }
+    .inner_best_offer .tab-content .swiper-slide {
+        width: 360px !important;
+    }
+    .loc_search_field .location_search,
+    .loc_search_field_to .location_search_to,
+    .loc_search_field_one .one_location_search_from,
+    .loc_search_field_one_to .one_location_search_to {
+        width: 340px;
+    }
+    .customer_info span.txt_left {
+        float: left;
+    }
+    .customer_info span.txt_right {
+        float: right;
+    }
+    .customer_info span {
+        font-size: 16px;
+        line-height: 21px;
+        float: left;
+        text-align: left;
+    }
+    .customer_info {
+        margin-bottom: 30px;
+    }
+    .inner_travelagent .how_img img {
+        width: 70%;
+    }
+    .custom_block_content {
+        padding: 8px 10px;
+    }
+    .custom_box_result ul.list-search-result.booking_list li {
+        font-size: 11px;
+        line-height: 18px;
+        padding: 0px 10px;
+    }
+    .booking_title h3 {
+        display: inline-block;
+    }
+    .booking_title>a {
+        display: inline-block;
+        float: right;
+    }
+    form .custom_block_content p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .traveller_info h4 {
+        padding-top: 15px;
+        margin-top: 15px;
+        font-size: 21px;
+        line-height: 24px;
+    }
+    .traveller_info .note {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .count_search .search_booking {
+        width: 66%;
+    }
+    .count_search .showcount {
+        width: 32%;
+    }
+    .count_search .showcount select {
+        padding: 8px 8px;
+        width: 65%;
+    }
+    .roundtrip_header {
+        padding: 8px;
+    }
+    .roundtrip_header ul li.flight_name,
+    .roundtrip_header ul li.date {
+        padding-top: 7px;
+    }
+    .inter_trip_left .cus_dep_arr_time,
+    .inter_trip_left .cus_dep_arr_time .date_time,
+    .inter_trip_left .flight_time_between span.duration {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .book_flight .refundable span {
+        padding: 2px 8px;
+        font-size: 11px;
+    }
+    .book_flight .fli_price {
+        font-size: 21px;
+        line-height: 24px;
+        margin: 10px 0px;
+    }
+    .inter_trip_left h4 {
+        font-size: 16px;
+        line-height: 21px;
+        margin-bottom: 10px;
+    }
+    .book_flight {
+        float: left;
+        width: 20%;
+        padding: 15px 0px 0px;
+        text-align: right;
+    }
+    .inter_trip_left {
+        float: left;
+        width: 80%;
+        padding-right: 10px;
+        border-right: 1px solid #d4d4d4;
+    }
+    .seat_list .table_data {
+        border: 10px solid #ddd;
+    }
+    .plane_seat_sec {
+        padding: 30px 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .custom_reservation_tab ul.br-tabs {
+        text-align: left;
+    }
+    .inner_best_offer h3 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .inner_best_offer .swiper_button {
+        top: -32px;
+    }
+    .inner_best_offer .tab-content {
+        margin-top: 35px;
+    }
+    .slide-content {
+        text-align: left;
+    }
+    .loc_search_field .location_search,
+    .loc_search_field_to .location_search_to,
+    .loc_search_field_one .one_location_search_from,
+    .loc_search_field_one_to .one_location_search_to {
+        width: 280px;
+        padding: 0;
+        border: 0;
+    }
+    .loc_search_field_to .location_search_to,
+    .loc_search_field_one_to .one_location_search_to {
+        left: auto;
+        right: 0px;
+    }
+    .loc_search_field .location_search:before,
+    .loc_search_field_one .one_location_search_from:before {
+        left: 15%;
+    }
+    .loc_search_field_to .location_search_to:before,
+    .loc_search_field_one_to .one_location_search_to:before {
+        right: 15%;
+        left: auto;
+    }
+    .inner_page .ul_count_3 ul,
+    .inner_page .ul_count_2 ul {
+        column-count: auto;
+    }
+    .col_xs_480 {
+        width: 100%;
+    }
+    .offer_img img {
+        width: 100%;
+    }
+    /* .inner_common_tabs ul.custom_tabs{display:block;text-align: center;} */
+    .inner_common_tabs ul.custom_tabs {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: flex;
+        overflow-x: auto;
+    }
+    .inner_common_tabs ul.custom_tabs::-webkit-scrollbar {
+        display: none;
+    }
+    .inner_common_tabs ul.custom_tabs li {
+        float: none;
+        flex: 0 0 23%;
+        text-align: center;
+    }
+    .inner_common_tabs ul.custom_tabs li a {
+        padding: 10px 12px;
+    }
+    .offer_banner {
+        padding: 80px 0px;
+    }
+    .customer_info span {
+        text-align: center;
+        font-size: 14px;
+        line-height: 18px;
+        display: block;
+        margin-bottom: 15px;
+    }
+    .customer_info {
+        margin-bottom: 20px;
+    }
+    #form-login .checkbox-default {
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    .inner_travelagent .how_img img {
+        width: 90%;
+    }
+    .oneway_search .flight_info ul li,
+    .internationtrip_search .flight_info ul li {
+        padding: 5px 2px;
+    }
+    .flight_info ul li {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .flight_info ul li a i {
+        font-size: 10px;
+    }
+    .custom_box_result ul.list-search-result li {
+        font-size: 10px;
+        line-height: 16px;
+        padding: 0px 3px;
+    }
+    .oneway_search .custom_box_result ul.list-search-result li.price {
+        font-size: 11px;
+        line-height: 16px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li.price {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .custom_box_result ul.list-search-result li span.date {
+        font-size: 11px;
+        line-height: 16px;
+    }
+    .custom_box_result ul.list-search-result.booking_list li span.date {
+        font-size: 9px;
+        line-height: 14px;
+    }
+    .pad_xs_10 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .btn.colorful-transparent.btn_green {
+        font-size: 7px;
+        padding: 5px 3px;
+    }
+    .custom_block_content {
+        padding: 5px 5px;
+    }
+    .roundtrip_search .custom_block_content {
+        padding: 5px 2px;
+    }
+    form .custom_block_content .form_field,
+    form .custom_block_content .traveller_info .form_field {
+        width: 100%;
+    }
+    .booking_title h3 {
+        display: block;
+    }
+    .booking_title>a {
+        display: block;
+        float: right;
+        margin-bottom: 10px;
+    }
+    .booking_sec .custom_block_content {
+        clear: both;
+    }
+    form .custom_block_content p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .traveller_info h4 {
+        padding-top: 10px;
+        margin-top: 10px;
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .traveller_info .note {
+        font-size: 12px;
+        line-height: 21px;
+    }
+    .count_search {
+        width: 100%;
+    }
+    .count_search .search_booking {
+        width: 64%;
+    }
+    .count_search .showcount {
+        width: 34%;
+    }
+    .count_search .showcount select {
+        padding: 8px 4px;
+        width: 60%;
+    }
+    .homepage .mob_sticky_menu ul li {
+        margin-right: 5px;
+        width: calc(25% - 5px);
+    }
+    .homepage .mob_sticky_menu ul li a {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .roundtrip_search .flight_info ul li {
+        padding: 4px 2px;
+        width: 18.6%;
+        font-size: 9px;
+        line-height: 13px;
+    }
+    .roundtrip_search .flight_info ul li:last-child {
+        width: 10%;
+    }
+    .roundtrip_search .flight_info ul li a i {
+        font-size: 10px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li.round_check {
+        width: 100%;
+        position: absolute;
+        right: 0px;
+        top: 0px;
+        margin: 3px 3px 0px 0px;
+        height: 100%;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li.round_check .checkbox-default .checkboxmark {
+        height: 12px;
+        width: 12px;
+        flex: 0 0 12px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li.round_check .checkbox-default .checkboxmark:after {
+        left: 3px;
+        top: 3px;
+        width: 6px;
+        height: 6px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li {
+        padding: 0px 2px;
+    }
+    .roundtrip_header {
+        padding: 3px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result.result_list li {
+        font-size: 9px;
+        line-height: 13px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li .flight_name {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li .flight_name span {
+        font-size: 9px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li span.duration>span:before {
+        width: 35px;
+    }
+    .cus_tooltip {
+        font-size: 8px;
+        line-height: 12px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li span.duration span {
+        font-size: 9px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result li span.duration .cus_tooltip span.tooltiptext {
+        font-size: 10px;
+    }
+    #header-bar-2.is-sticky .hb-content {
+        padding: 6px 0;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result.result_list li span.date {
+        font-size: 9px;
+        line-height: 12px;
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result.result_list li.pad_left10 {
+        width: calc(17% - 0px);
+    }
+    .roundtrip_search .custom_box_result ul.list-search-result.result_list li:nth-child(3) {
+        width: calc(20% - 0px);
+    }
+    .roundtrip_search .flight_details a {
+        font-size: 9px;
+        line-height: 12px;
+    }
+    .sticky_bottom ul li.flight_duration .cus_time {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .sticky_bottom ul li.flight_duration .arrow {
+        margin: 0px 2px;
+    }
+    .sticky_bottom ul li.flight_duration .arrow i {
+        font-size: 10px;
+    }
+    .sticky_bottom ul li.flight_price {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .sticky_bottom ul li.flight_txt .flight_name {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .sticky_bottom .stk_grand_total li.grandtotal_txt {
+        font-size: 16px;
+        line-height: 21px;
+        margin-top: 5px;
+    }
+    .sticky_bottom .stk_grand_total li.grandtotal_btn button {
+        font-size: 9px;
+        line-height: 12px;
+        padding: 5px 10px;
+    }
+    .sticky_bottom ul li.flight_txt img {
+        width: 25px;
+    }
+    /* .sticky_bottom ul li.flight_txt .flight_name{width: calc(100% - 30px);font-size: 9px;line-height: 12px;} */
+    .sticky_bottom {
+        padding-bottom: 5px;
+        padding-top: 5px;
+    }
+    .stick_col_4.brder_rgt {
+        width: 100%;
+    }
+    .custom_block_content .inter_trip_left .cus_dep_arr_time span.date {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .inter_trip_left .cus_dep_arr_time,
+    .inter_trip_left .cus_dep_arr_time .date_time,
+    .inter_trip_left .flight_time_between span.duration {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    .book_flight .refundable span {
+        padding: 2px 5px;
+        font-size: 9px;
+    }
+    .book_flight .fli_price {
+        font-size: 14px;
+        line-height: 18px;
+        margin: 6px 0px;
+    }
+    .inter_trip_left h4 {
+        font-size: 13px;
+        line-height: 16px;
+        margin-bottom: 6px;
+    }
+    .inter_trip_left {
+        border-bottom: 1px solid #d4d4d4;
+        padding-bottom: 5px;
+        float: left;
+        width: 100%;
+    }
+    .book_flight {
+        padding: 10px 0px 0px;
+        text-align: center;
+        display: block;
+        clear: both;
+    }
+    .book_flight .refundable,
+    .book_flight span.fli_price {
+        margin-right: 5px;
+    }
+    .book_flight .refundable,
+    .book_flight span.fli_price,
+    .btn.colorful-transparent.btn_green {
+        display: inline-block;
+    }
+    .book_flight .btn.colorful-transparent.btn_green {
+        font-size: 10px;
+    }
+    .internationtrip_search .custom_box_result ul.list-search-result li {
+        width: 28%;
+    }
+    .internationtrip_search .custom_box_result ul.list-search-result li:first-child {
+        width: 15%;
+    }
+    .seat_list .table_data {
+        max-width: 300px;
+        padding: 10px 4px;
+    }
+    .seat_list table tr td {
+        font-size: 10px;
+        line-height: 14px;
+        padding: 10px 2px;
+    }
+    .seat_list table tr td span.ytfi-seat {
+        font-size: 10px;
+        width: 30px;
+        padding-left: 5px;
+    }
+    .seat_list table tr td span.ytfi-seat:before {
+        font-size: 40px;
+        width: 34px;
+    }
+    .seat_list .cus_wings {
+        display: none;
+    }
+    .seat_list .table_data {
+        border: 5px solid #ddd;
+    }
+    .plane_seat_sec {
+        padding: 20px 5px;
+    }
+}
+
+@media (min-width: 401px) and (max-width: 480px) {
+    .inner_best_offer .tab-content .swiper-slide {
+        width: 330px !important;
+    }
+}
+
+@media (min-width: 351px) and (max-width: 400px) {
+    .inner_best_offer .tab-content .swiper-slide {
+        width: 310px !important;
+    }
+}
+
+@media (min-width: 321px) and (max-width: 350px) {
+    .inner_best_offer .tab-content .swiper-slide {
+        width: 280px !important;
+    }
+}
+
+@media (max-width: 400px) {
+    #form-register .box-field {
+        width: 100%;
+    }
+    #form-register .form-group .box-field+.box-field {
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .inner_best_offer .tab-content .swiper-slide {
+        width: 275px !important;
+    }
+    .ideaimg {
+        width: 102px;
+    }
+}
+
+@media (max-width:640px) {
+    .banner-parallax {
+        padding: 20px 0px 45px;
+    }
+}

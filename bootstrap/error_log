@@ -1,0 +1,12 @@
+[13-Jun-2021 08:55:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/zapbooking/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/bootstrap/app.php on line 14
+[16-Jun-2021 05:12:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/zapbooking/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/bootstrap/app.php on line 14
+[19-Jun-2021 11:39:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home2/zapbooking/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/bootstrap/app.php on line 14

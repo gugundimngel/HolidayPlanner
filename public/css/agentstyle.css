@@ -1,0 +1,5 @@
+.agenteditform  .select_field {float: left;width: 18%;}
+.agenteditform  .select_field+.input_field { margin: 0px 1%;}
+.agenteditform  .input_field { float: left; width: 40%;}
+.agenteditform .inner_form_field label {margin-bottom: 10px; display: block;}
+.country_field .niceCountryInputMenu{border: 1px solid #ced4da;width: 100%; border-radius: 4px; padding: 2px 5px;}

@@ -1,0 +1,12 @@
+[11-Aug-2021 03:49:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/zapbooking/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/config/filesystems.php on line 16
+[31-Aug-2021 13:18:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/zapbooking/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/config/hashing.php on line 32
+[03-Sep-2021 07:09:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/zapbooking/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/zapbooking/public_html/config/filesystems.php on line 16

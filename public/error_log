@@ -1,0 +1,1181 @@
+[02-Apr-2023 16:53:56 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[02-Apr-2023 16:53:56 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[06-Apr-2023 09:11:53 Asia/Kolkata] PHP Fatal error:  Uncaught InvalidArgumentException: Route [register] not defined. in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:374
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(812): Illuminate\Routing\UrlGenerator->route('register', Array, true)
+#1 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(142): route('register')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/e in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 374
+[06-Apr-2023 09:11:53 Asia/Kolkata] PHP Fatal error:  Uncaught InvalidArgumentException: Route [register] not defined. in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:374
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(812): Illuminate\Routing\UrlGenerator->route('register', Array, true)
+#1 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(142): route('register')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/e in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 374
+[06-Apr-2023 09:12:25 Asia/Kolkata] PHP Fatal error:  Uncaught InvalidArgumentException: Route [register] not defined. in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:374
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(812): Illuminate\Routing\UrlGenerator->route('register', Array, true)
+#1 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(142): route('register')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/e in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 374
+[06-Apr-2023 09:12:25 Asia/Kolkata] PHP Fatal error:  Uncaught InvalidArgumentException: Route [register] not defined. in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:374
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(812): Illuminate\Routing\UrlGenerator->route('register', Array, true)
+#1 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(142): route('register')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/e in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 374
+[07-Apr-2023 22:00:11 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[07-Apr-2023 22:00:11 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[08-Apr-2023 13:39:34 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[08-Apr-2023 13:39:34 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[08-Apr-2023 18:55:54 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[08-Apr-2023 18:55:54 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[08-Apr-2023 19:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[08-Apr-2023 19:29:01 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[08-Apr-2023 19:29:06 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[08-Apr-2023 19:29:06 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[08-Apr-2023 19:29:07 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[08-Apr-2023 19:29:07 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[08-Apr-2023 19:29:07 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[08-Apr-2023 19:29:07 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[08-Apr-2023 19:58:17 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[08-Apr-2023 19:58:17 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[08-Apr-2023 21:10:27 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:10:27 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:10:30 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:10:30 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:31 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:31 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:35 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:35 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:35 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:35 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:35 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:35 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:35 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:35 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:36 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:37 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:37 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:37 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:37 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:37 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:37 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:37 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:37 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:37 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[08-Apr-2023 21:19:37 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Method ReflectionParameter::getClass() is deprecated in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:826
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(826): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(795): Illuminate\Container\Container->resolveDependencies()
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#5 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(256): Illuminate\Foundation\Application->make()
+#6 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(764): Illuminate\Container\Container->Illuminate\Container\{closure}()
+#7 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(646): Illuminate\Container\Container->build()
+#8 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(601): Illuminate\Container\Container->resolve()
+#9 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(733): Illuminate\Container\Container->make()
+#10 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(159): Illuminate\Foundation\Application->make()
+#11 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#12 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse()
+#13 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException()
+#14 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#15 {main}
+  thrown in /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 826
+[09-Apr-2023 11:24:58 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[09-Apr-2023 11:24:58 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[09-Apr-2023 11:24:58 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
+[09-Apr-2023 11:24:58 Asia/Kolkata] PHP Fatal error:  Uncaught ErrorException: Undefined index: srch in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php:1843
+Stack trace:
+#0 /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php(1843): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home2/ewebtech...', 1843, Array)
+#1 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home2/ewebtech...')
+#2 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home2/ewebtech...', Array)
+#3 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framework/src/Illuminate/View/View.php(142): Illuminate\View\Engines\CompilerEngine->get('/home2/ewebtech...', Array)
+#4 /home2/ewebtech/test.eweblinktechnology.com/vendor/laravel/framew in /home2/ewebtech/test.eweblinktechnology.com/storage/framework/views/a685b0ea0c6478979cd441d52cb9046612838fda.php on line 1843
