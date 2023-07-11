@@ -15,19 +15,17 @@
 						<?php 
 							$dest = $destinationdetail;
 							$filterlist = json_decode($filterlist);
-							$Destination_description = $myquery->description;
-							
+							$Destination_description = strip_tags($myquery->description);
+					
 							if(strlen($Destination_description) > 500){
 								$stringCut = substr($Destination_description, 0, 500);
 								$endPoint = strrpos($stringCut, ' ');
-							
-								//if the string doesn't contain any space then it will cut without word basis.
 								$newDestination_description = $endPoint? substr($stringCut, 0, $endPoint) : substr($stringCut, 0);
 								$newDestination_description .= '<button id="description_readMore">Read More</button>';
 							}else{
 								$newDestination_description = $Destination_description;
 							}
-							$oldDestination_description = $myquery->description;
+							$oldDestination_description = $Destination_description;
 							$oldDestination_description .= '<button id="description_showLess">Show Less</button>';
 						?>
 						<h2>{{@$myquery->name}}</h2>
